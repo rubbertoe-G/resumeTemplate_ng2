@@ -1,0 +1,19 @@
+mat-toolbar{
+    position: fixed;
+    z-index: 3;
+    display: flex
+}
+
+#toolbar-content{
+    margin: 0 auto
+    
+}
+
+#toolbar-title{
+    font-size: 25pt;
+    flex: 1 1 auto;
+}
+
+#spacer{
+    flex: 1 1 auto;
+}
